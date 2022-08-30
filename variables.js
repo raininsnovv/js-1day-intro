@@ -1,0 +1,10 @@
+let nameGame;
+let descGame;
+let versionGame;
+let mainHero;
+let gameDev;
+let progLang;
+let versLang;
+let gameMap;
+let siteDev;
+let interLang;
