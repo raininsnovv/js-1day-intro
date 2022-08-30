@@ -19,7 +19,7 @@ const isAdmin = false;
   если значение константы isAdmin ложно
 */
 // тут твой код
-if(isAdmin=false){
+if(isAdmin===false){
     console.log('доступ запрещен')
 }
 
@@ -47,7 +47,7 @@ const myAge = "20";
   Тебе понадобится оператор typeof: https://learn.javascript.ru/types#type-typeof
 */
 // тут твой код
-if (typeof myAge === Number){
+if (typeof myAge === number){
     console.log('возраст указан верно')
 }
 
